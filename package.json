@@ -1,6 +1,6 @@
 {
   "name": "nodejs-hello-world",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "web app for testing",
   "main": "app.js",
   "scripts": {

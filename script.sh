@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-TAG="0.2.0"
+TAG="0.2.1"
 
 docker build -f Dockerfile . -t markruler/nodejs-hello-world
 docker tag markruler/nodejs-hello-world markruler/nodejs-hello-world:${TAG}
